@@ -1,16 +1,30 @@
-# todo_app
+# Flutter Todo App ✅
 
-A new Flutter project.
+A simple, clean and lightweight **Todo App** built with **Flutter**.
+The app works completely offline and stores tasks locally using `shared_preferences`.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Persistent storage (data stays after app restart)  
+- Clean UI  
+- Works on Android, Windows and Web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots  
+*(Add your screenshots here later)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter 3.x**
+- **Dart**
+- **Shared Preferences** (local storage)
+
+---
