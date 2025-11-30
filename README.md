@@ -16,11 +16,6 @@ The app works completely offline and stores tasks locally using `shared_preferen
 
 ---
 
-## 📸 Screenshots  
-*(Add your screenshots here later)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Flutter 3.x**
